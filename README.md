@@ -100,3 +100,5 @@ systemctl daemon-reload
 ## Login to http://serverIP:8081
 
 ## Login: admin , Password: admin123
+
+webhook: http://13.234.217.75:8080/github-webhook/
