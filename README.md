@@ -5,6 +5,10 @@ Arch:
 # Tomcat installatin : ..
 sudo yum install tomcat tomcat-webapps tomcat-admin-webapps tomcat-docs-webapp tomcat-javadoc -y
 
+**Change Port number of tomcat from 8080 to 8088 in /usr/share/tomcat/conf/server.xml
+**
+71st Line
+
 **# java-tomcat-maven-example
 Prerequisites:**
 
